@@ -1,1 +1,11 @@
-# MusicMajorMadness
+# The repository for all the code written to analyze the relationship between "STEM" and "non-STEM" students and the genre of music they listen to.
+
+### Analysis:
+
+Since we aimed to find statistically significant data, we formally hypothesized that the average music consumed between STEM and non-STEM students would be vastly different. However, the lack of correlation and insignificant p-value fails to reject the null hypothesis. As a result, all our data points to the notion that there is no significant difference between the average minutes of music consumed between the two sample populations. For our second hypothesis in which we tested whether one sample group (STEM students) was more stressed than the other (non-STEM students), we also did not find any statistically significant evidence. As a result, we fail to reject this null hypothesis and can conclude that both sample populations do not have a significant difference. 
+
+While our data failed to reject our null hypotheses, it is not a strong indicator of the true mean. Out of an estimated population of 16,872 undergraduates, only 37 responded to our survey. Our sample set reflects 0.002% of our population, which is insignificant. Since our dataset was so limited, it may have skewed our results and showed a biased result, which is not a reflection of the true mean. To overcome this, we need to increase our sample size and run multiple tests to ensure that our results stay consistent among our control groups. 
+
+As data scientists, we can try to circumvent such issues in the future by expanding our reach and promoting on various platforms, specifically those catered to the entire BU community. By using platforms such as Piazza and Snapchat, we are inadvertently using a biased sampling method, since a majority of the population is not present in these communities. 
+
+Although our results have proven to be statistically insignificant, we learned that BU’s students' music tastes share a variety of similarities despite their field of study and that the academic rigor of the institute applies across all colleges. We also came to the realization that visualization methods increase the accessibility of our data and conclusions exponentially, as it is easy to decipher for the common person. Adopting methods of colorful, informative visualization breaks the silos between data and the public, and helps us as a people understand each other and our similarities better. 
